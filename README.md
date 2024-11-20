@@ -57,6 +57,6 @@ Real-Time Recognition: Implement real-time gesture recognition by integrating a 
 ## Group Members
 
 - [@Anuradha Bansode](https://github.com/anyalisis12)
-- [@Sayali Tachale](https://www.github.com/octokatherine)
+- [@Sayali Tachale](https://github.com/Sayali2408)
 - [@Preeti Dubile](https://github.com/preeti109)
 
