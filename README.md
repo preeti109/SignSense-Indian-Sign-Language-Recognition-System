@@ -6,12 +6,9 @@ SignSense is a machine learning-based system designed to recognize gestures in I
 Introduction to Sign Languages
 
 Sign Languages are a group of languages that use predefined actions and movements to convey messages. These languages are primarily developed to aid deaf and verbally challenged individuals. Sign languages rely on a precise and simultaneous combination of:
-
-     Hand movements
-
-     Hand orientation
-
-     Hand shapes
+    Hand movements
+    Hand orientation
+    Hand shapes
 
 Different regions have developed distinct sign languages, such as American Sign Language (ASL) and Indian Sign Language (ISL). In this project, we focus on Indian Sign Language, a prevalent sign language in South Asian countries.
 
