@@ -48,7 +48,6 @@ Split Data: Divide the dataset into two subsets: training and validation. The tr
 Preprocess Data: Preprocess the images by resizing them to a uniform size, normalizing pixel values for consistent input, and applying data augmentation techniques like flipping, rotation, or zoom to increase the dataset’s diversity.
 
 Build Model: Design a Convolutional Neural Network (CNN) architecture tailored for gesture recognition. Include convolutional layers for feature extraction, pooling layers for dimensionality reduction, and fully connected layers for classification.
-![1](https://github.com/user-attachments/assets/41d47518-424c-4b7b-b2f7-c9975107504e | width=100)
 
 Train Model: Train the CNN using the prepared training data. Optimize the model's weights through backpropagation and evaluate its performance on the validation set. Save the trained model for future use.
 
